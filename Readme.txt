@@ -34,5 +34,4 @@ Through data cleaning, analysis, and visualization, this project identifies beha
 
 ---
 
-## ⚙️ Folder Structure
 
